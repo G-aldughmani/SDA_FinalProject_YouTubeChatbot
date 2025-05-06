@@ -1,3 +1,5 @@
+Tries for screen recording on testing videos: https://drive.google.com/drive/folders/1V_plt49u-6tefiu4ay2QLHw0pREbMinm?usp=share_link
+
 YouTube Video Transcription and Q&A System
 
 Overview
