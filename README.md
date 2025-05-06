@@ -38,7 +38,7 @@ pip install -r requirements.txt
 Setup
 
 Clone this repository:
-git clone https://github.com/yourusername/youtube-qa-chatbot.git
+git clone [https://github.com/yourusername/youtube-qa-chatbot.git]
 Install the necessary dependencies:
 pip install -r requirements.txt
 Create a .env file and add your LangChain API key:
@@ -56,9 +56,6 @@ Performance Evaluation
 
 The system performance was evaluated by comparing different Whisper models, such as Whisper-Tiny and Whisper-Base, on processing time and transcription accuracy. The Whisper-Tiny model was chosen for its balance of speed and accuracy, making it ideal for local, cost-effective deployment.
 
-Whisper Model Comparison:
-Whisper-Tiny: Best suited for local deployment with minimal resource usage and fast processing.
-Whisper-Base: Slightly more accurate but at the cost of higher resource usage.
 Future Work
 
 Cloud Support: Enhance the system to process large videos by integrating cloud-based resources.
